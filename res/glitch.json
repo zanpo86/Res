@@ -5,107 +5,128 @@
         {
           "image": "s2bmHrMD/ops",
           "title": "",
-          "isPro": false
+          "isPro": false,
+          "isAd": false
         },
         {
           "image": "4Nc0X5CD/img01",
           "title": "GB",
-          "isPro": false
+          "isPro": false,
+          "isAd": false
         },
         {
           "image": "2jVJKY08/img02",
           "title": "RB",
-          "isPro": true
+          "isPro": true,
+          "isAd": false
         },
         {
           "image": "qvd5q34z/img03",
           "title": "RG",
-          "isPro": true
+          "isPro": false,
+          "isAd": true
         },
         {
           "image": "DZzqYCgt/img04",
           "title": "RGB",
-          "isPro": false
+          "isPro": false,
+          "isAd": false
         },
         {
           "image": "FRnjtjC1/img05",
           "title": "Lens",
-          "isPro": true
+          "isPro": true,
+          "isAd": false
         },
         {
           "image": "gjX3Gn1s/img06",
           "title": "Lsd",
-          "isPro": false
+          "isPro": true,
+          "isAd": false
         },
         {
           "image": "prwzrPHH/img07",
           "title": "Compression",
-          "isPro": false
+          "isPro": false,
+          "isAd": true
         },
         {
           "image": "66gdYfGm/img08",
           "title": "Hotline",
-          "isPro": false
+          "isPro": false,
+          "isAd": false
         },
         {
           "image": "jSryrqc6/img09",
           "title": "Interfer",
-          "isPro": false
+          "isPro": false,
+          "isAd": false
         },
         {
           "image": "MKB14f7K/img10",
           "title": "Slicer",
-          "isPro": true
+          "isPro": true,
+          "isAd": false
         },
         {
           "image": "2SFhjp9s/img11",
           "title": "Vapor",
-          "isPro": false
+          "isPro": false,
+          "isAd": true
         },
         {
           "image": "mrLMtd0t/img12",
           "title": "Vlc",
-          "isPro": true
+          "isPro": false,
+          "isAd": true
         },
         {
           "image": "ZR0dLWYm/img13",
           "title": "Wobble",
-          "isPro": false
+          "isPro": false,
+          "isAd": false
         },
         {
           "image": "vm0n9rsX/img14",
           "title": "Spectrum",
-          "isPro": false
+          "isPro": true,
+          "isAd": false
         },
         {
           "image": "tTfVv97x/img15",
           "title": "BW",
-          "isPro": false
+          "isPro": false,
+          "isAd": false
         },
         {
           "image": "SRMYwHzt/img16",
           "title": "Bit16",
-          "isPro": false
+          "isPro": false,
+          "isAd": true
         },
         {
           "image": "7brJDX3P/img17",
           "title": "Clones",
-          "isPro": true
+          "isPro": true,
+          "isAd": false
         },
         {
           "image": "bYWMX550/img18",
           "title": "Drag",
-          "isPro": false
+          "isPro": false,
+          "isAd": false
         },
         {
           "image": "QdQYLdL1/img19",
           "title": "Fall",
-          "isPro": true
+          "isPro": false,
+          "isAd": true
         },
         {
           "image": "s2363Cy8/img20",
           "title": "Hue",
-          "isPro": true
+          "isPro": true,
+          "isAd": false
         }
       ]
     }
