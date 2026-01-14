@@ -15,7 +15,7 @@
           "thumb": "tCZ8kddf/analog1i",
           "title": "AN1",
           "isPro": false,
-          "isAd": true,
+          "isAd": false,
           "iLine": false
         },
         {
@@ -1990,3 +1990,4 @@
     }
   ]
 }
+
