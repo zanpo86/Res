@@ -17,7 +17,7 @@
      "thumb": "Gp7vsWwH/aero-01i",
      "title": "AP1",
      "isPro": false,
-     "isAd": false,
+     "isAd": true,
      "iLine": false
     },
     {
@@ -3335,4 +3335,5 @@
    ]
   }
  ]
+
 }
