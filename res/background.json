@@ -14,7 +14,7 @@
      "image": "dtCGJ4VP/autumn-01",
      "thumb": "zBPTGQh5/autumn-01i",
      "title": "AU1",
-     "isPro": true,
+     "isPro": false,
      "isAd": false,
      "iLine": false
     },
@@ -3310,3 +3310,4 @@
   }
  ]
 }
+
