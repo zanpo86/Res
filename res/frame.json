@@ -12,7 +12,7 @@
         {
           "image": "rmZr0s1x/friendship01",
           "title": "FS1",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -2344,3 +2344,4 @@
     }
   ]
 }
+
