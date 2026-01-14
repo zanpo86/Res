@@ -14,7 +14,7 @@
           "thumb": "Jnn0Wz1L/rom1",
           "title": "RO1",
           "isPro": false,
-          "isAd": true,
+          "isAd": false,
           "iLine": false
         },
         {
@@ -1941,3 +1941,4 @@
     }
   ]
 }
+
