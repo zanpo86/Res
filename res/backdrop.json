@@ -16,7 +16,7 @@
      "mask": "s2bmHrMD/ops",
      "thumb": "Gp7vsWwH/aero-01i",
      "title": "AP1",
-     "isPro": true,
+     "isPro": false,
      "isAd": false,
      "iLine": false
     },
@@ -3336,3 +3336,4 @@
   }
  ]
 }
+
