@@ -14,7 +14,7 @@
           "image": "Kj5678NV/sp-01b",
           "thumb": "Cx2WstGF/sp-01f",
           "title": "SP1",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -1838,3 +1838,4 @@
     }
   ]
 }
+
