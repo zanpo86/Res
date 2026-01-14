@@ -1,44 +1,62 @@
 {
-  "data": [
+ "data": [
+  {
+   "details": [
     {
-      "details": [
-        {
-          "image": "s2bmHrMD/ops",
-          "title": ""
-        },
-        {
-          "image": "0jHp7p17/blur",
-          "title": "Blur"
-        },
-        {
-          "image": "fLDjszvS/mosaic",
-          "title": "Mosaic"
-        },
-        {
-          "image": "W4Rw96Fn/gaussain",
-          "title": "Gaussian"
-        },
-        {
-          "image": "0QnG2TtW/crystal",
-          "title": "Crystal"
-        },
-        {
-          "image": "43zbj7pT/box",
-          "title": "Box"
-        },
-        {
-          "image": "8P9R5BHS/cirlce",
-          "title": "Circle"
-        },
-        {
-          "image": "qMzc4Z2w/random",
-          "title": "Random"
-        },
-        {
-          "image": "QN6kLrKV/invert",
-          "title": "Invert"
-        }
-      ]
+     "image": "s2bmHrMD/ops",
+     "title": "",
+     "isPro": false,
+     "isAd": false
+    },
+    {
+     "image": "0jHp7p17/blur",
+     "title": "Blur",
+     "isPro": false,
+     "isAd": false
+    },
+    {
+     "image": "fLDjszvS/mosaic",
+     "title": "Mosaic",
+     "isPro": false,
+     "isAd": true
+    },
+    {
+     "image": "W4Rw96Fn/gaussain",
+     "title": "Gaussian",
+     "isPro": true,
+     "isAd": false
+    },
+    {
+     "image": "0QnG2TtW/crystal",
+     "title": "Crystal",
+     "isPro": true,
+     "isAd": false
+    },
+    {
+     "image": "43zbj7pT/box",
+     "title": "Box",
+     "isPro": false,
+     "isAd": false
+    },
+    {
+     "image": "8P9R5BHS/cirlce",
+     "title": "Circle",
+     "isPro": false,
+     "isAd": true
+    },
+    {
+     "image": "qMzc4Z2w/random",
+     "title": "Random",
+     "isPro": false,
+     "isAd": false
+    },
+    {
+     "image": "QN6kLrKV/invert",
+     "title": "Invert",
+     "isPro": true,
+     "isAd": false
     }
-  ]
+   ]
+  }
+ ]
 }
