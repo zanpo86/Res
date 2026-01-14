@@ -5,9 +5,9 @@
         {
           "image": "s2bmHrMD/ops",
           "title": "",
-          "isPro" : false,
-          "isAd" : false,
-          "iLine" : false
+          "isPro": false,
+          "isAd": false,
+          "iLine": false
         },
         {
           "image": "13LT1LmP/pt-01",
@@ -20,20 +20,20 @@
           "image": "2y89xYwd/pt-02",
           "title": "PT2",
           "isPro": false,
-          "isAd": false,
+          "isAd": true,
           "iLine": false
         },
         {
           "image": "cHc5YCQ4/pt-03",
           "title": "PT3",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
         {
           "image": "tR2M41qB/pt-04",
           "title": "PT4",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -47,21 +47,21 @@
         {
           "image": "XYFGQCXL/pt-06",
           "title": "PT6",
-          "isPro": false,
-          "isAd": true,
+          "isPro": true,
+          "isAd": false,
           "iLine": false
         },
         {
           "image": "pdH97LFH/pt-07",
           "title": "PT7",
           "isPro": false,
-          "isAd": false,
+          "isAd": true,
           "iLine": false
         },
         {
           "image": "C1MRhr7r/pt-08",
           "title": "PT8",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -82,7 +82,7 @@
         {
           "image": "d3p39sYg/pt-11",
           "title": "PT11",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -117,15 +117,15 @@
         {
           "image": "5yYNyhCg/pt-16",
           "title": "PT16",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
         {
           "image": "VNm6gZxs/pt-17",
           "title": "PT17",
-          "isPro": true,
-          "isAd": false,
+          "isPro": false,
+          "isAd": true,
           "iLine": false
         },
         {
@@ -145,7 +145,7 @@
         {
           "image": "cH5Lsxr6/pt-20",
           "title": "PT20",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -160,7 +160,7 @@
           "image": "bvmzTy0L/pt-22",
           "title": "PT22",
           "isPro": false,
-          "isAd": false,
+          "isAd": true,
           "iLine": false
         },
         {
@@ -180,14 +180,14 @@
         {
           "image": "fRhTWgT7/pt-25",
           "title": "PT25",
-          "isPro": true,
-          "isAd": false,
+          "isPro": false,
+          "isAd": true,
           "iLine": false
         },
         {
           "image": "2SFj1FVs/pt-26",
           "title": "PT26",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -201,7 +201,7 @@
         {
           "image": "FKrr3dS7/pt-28",
           "title": "PT28",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -215,22 +215,22 @@
         {
           "image": "nrxKHHYQ/pt-30",
           "title": "PT30",
-          "isPro": true,
-          "isAd": false,
+          "isPro": false,
+          "isAd": true,
           "iLine": false
         },
         {
           "image": "L4kBx12k/pt-31",
           "title": "PT31",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
         {
           "image": "sxJYxtwH/pt-32",
           "title": "PT32",
-          "isPro": false,
-          "isAd": true,
+          "isPro": true,
+          "isAd": false,
           "iLine": false
         },
         {
@@ -250,7 +250,7 @@
         {
           "image": "ZYGy3H5n/pt-35",
           "title": "PT35",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -278,8 +278,8 @@
         {
           "image": "rmdKRR65/pt-39",
           "title": "PT39",
-          "isPro": true,
-          "isAd": false,
+          "isPro": false,
+          "isAd": true,
           "iLine": false
         },
         {
@@ -299,7 +299,7 @@
         {
           "image": "VNkS1HDG/pt-42",
           "title": "PT42",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -313,7 +313,7 @@
         {
           "image": "CMqRF8sg/pt-44",
           "title": "PT44",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -335,7 +335,7 @@
           "image": "mgbkN5fL/pt-47",
           "title": "PT47",
           "isPro": false,
-          "isAd": false,
+          "isAd": true,
           "iLine": false
         },
         {
@@ -348,7 +348,7 @@
         {
           "image": "Hs0jMCNv/pt-49",
           "title": "PT49",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -370,13 +370,13 @@
           "image": "R0h02JZ2/pt-52",
           "title": "PT52",
           "isPro": false,
-          "isAd": true,
+          "isAd": false,
           "iLine": false
         },
         {
           "image": "gkp2mT0V/pt-53",
           "title": "PT53",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -391,13 +391,13 @@
           "image": "zDKfmrqD/pt-55",
           "title": "PT55",
           "isPro": false,
-          "isAd": false,
+          "isAd": true,
           "iLine": false
         },
         {
           "image": "t4SqdRNk/pt-56",
           "title": "PT56",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -418,7 +418,7 @@
         {
           "image": "0Nz8Vgts/pt-59",
           "title": "PT59",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -439,8 +439,8 @@
         {
           "image": "bJbqjxcV/pt-62",
           "title": "PT62",
-          "isPro": true,
-          "isAd": false,
+          "isPro": false,
+          "isAd": true,
           "iLine": false
         },
         {
@@ -467,7 +467,7 @@
         {
           "image": "ry1qnN9K/pt-66",
           "title": "PT66",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -481,8 +481,8 @@
         {
           "image": "3xR7w5Qv/pt-68",
           "title": "PT68",
-          "isPro": true,
-          "isAd": false,
+          "isPro": false,
+          "isAd": true,
           "iLine": false
         },
         {
@@ -496,13 +496,13 @@
           "image": "gkMFQSLk/pt-70",
           "title": "PT70",
           "isPro": false,
-          "isAd": true,
+          "isAd": false,
           "iLine": false
         },
         {
           "image": "264NtChP/pt-71",
           "title": "PT71",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -517,7 +517,7 @@
           "image": "FRtQGYdy/pt-73",
           "title": "PT73",
           "isPro": false,
-          "isAd": false,
+          "isAd": true,
           "iLine": false
         },
         {
@@ -537,7 +537,7 @@
         {
           "image": "WzTcLx7t/pt-76",
           "title": "PT76",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -551,8 +551,8 @@
         {
           "image": "zGVZrCTw/pt-78",
           "title": "PT78",
-          "isPro": false,
-          "isAd": true,
+          "isPro": true,
+          "isAd": false,
           "iLine": false
         },
         {
@@ -572,21 +572,21 @@
         {
           "image": "bJ04T3jP/pt-81",
           "title": "PT81",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
         {
           "image": "T1CF81wH/pt-82",
           "title": "PT82",
-          "isPro": true,
-          "isAd": false,
+          "isPro": false,
+          "isAd": true,
           "iLine": false
         },
         {
           "image": "WbYCXdxd/pt-83",
           "title": "PT83",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -600,7 +600,7 @@
         {
           "image": "MKpg773k/pt-85",
           "title": "PT85",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         },
@@ -608,13 +608,13 @@
           "image": "gJbf81Q4/pt-86",
           "title": "PT86",
           "isPro": false,
-          "isAd": false,
+          "isAd": true,
           "iLine": false
         },
         {
           "image": "xjRWNxRy/pt-87",
           "title": "PT87",
-          "isPro": false,
+          "isPro": true,
           "isAd": false,
           "iLine": false
         },
@@ -622,27 +622,27 @@
           "image": "1zwdmJXF/pt-88",
           "title": "PT88",
           "isPro": false,
-          "isAd": true,
+          "isAd": false,
           "iLine": false
         },
         {
           "image": "W3VHhgqH/pt-89",
           "title": "PT89",
-          "isPro": true,
-          "isAd": false,
-          "iLine": false
-        },
-        {
-          "image": "vTqqqKqJ/pt-90",
-          "title": "PT90",
           "isPro": false,
           "isAd": true,
           "iLine": false
         },
         {
+          "image": "vTqqqKqJ/pt-90",
+          "title": "PT90",
+          "isPro": true,
+          "isAd": false,
+          "iLine": false
+        },
+        {
           "image": "3JNb4KWY/pt-91",
           "title": "PT91",
-          "isPro": true,
+          "isPro": false,
           "isAd": false,
           "iLine": false
         }
